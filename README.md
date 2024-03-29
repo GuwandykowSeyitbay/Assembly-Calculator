@@ -1,2 +1,2 @@
 # Assembly-Calculator
-Assebmly Calculator. Created by FASM(Flat Assebbler)
+Assembly Calculator. Created by FASM(Flat Assembler)
